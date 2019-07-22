@@ -1,6 +1,6 @@
 {
   "name": "@gustavo.moura/key-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integration API build for testing.",
   "main": "index.js",
   "scripts": {
